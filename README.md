@@ -61,7 +61,6 @@ Point Claude at the `skills/` folder, add the MCP server (see Quick start), and 
 - [Data](https://acesapi.com/data?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp): [results](https://acesapi.com/data/tennis-results-api?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp), [rankings history](https://acesapi.com/data/tennis-rankings-history?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp), [odds history](https://acesapi.com/data/tennis-odds-history?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp)
 - [Pricing](https://acesapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp): credits per call, 500 free every month
 - [Surface Elo explained](https://acesapi.com/glossary/surface-elo?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp)
-- Compare: [API Tennis](https://acesapi.com/compare/api-tennis?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp), [ESPN's tennis feed](https://acesapi.com/compare/espn-tennis-api?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp), [Sportradar](https://acesapi.com/compare/sportradar-tennis?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp), [SportsDataIO](https://acesapi.com/compare/sportsdataio-tennis?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp)
 
 ## Python
 
