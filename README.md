@@ -35,22 +35,14 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-This repo also ships 16 free Claude skills in [`skills/`](skills/) that turn Claude into a tennis analyst on top of the tools below: match and player lookup, surface Elo, head to head, ranking history, set-score modeling, odds math, edge detection and backtesting. They call the AcesAPI tools and keep to what the data holds (no serve statistics, moneylines on Slams, Masters and WTA 1000 only).
-
-```bash
-git clone https://github.com/noahowsh/acesapi-mcp.git
-```
-
-Or install them as a Claude Code plugin:
+Claude skills for tennis now live in the SportsDataHQ skills marketplace, one plugin per sport, alongside skills for eight more sports: [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills).
 
 ```
-/plugin marketplace add noahowsh/acesapi-mcp
-/plugin install acesapi-skills@acesapi
+/plugin marketplace add sports-data-hq/sportsdatahq-skills
+/plugin install tennis-data@sportsdatahq
 ```
 
-Or with the skills CLI: `npx skills add noahowsh/acesapi-mcp`.
-
-Point Claude at the `skills/` folder, add the MCP server (see Quick start), and ask a question such as "who is favored in tomorrow's Shanghai match and why?". Full catalog: [`skills/README.md`](skills/README.md). The skills also work on your own CSV or JSON without a key.
+The plugin connects the AcesAPI MCP server; every number comes from a live call.
 
 ## Useful pages
 
@@ -183,19 +175,13 @@ MIT for the contents of this repository. Data terms as above.
 
 ## Use with Codex
 
-Add this repo as a Codex plugin marketplace, then install the plugin:
+The SportsDataHQ skills marketplace also works in Codex (it reads `.agents/plugins/marketplace.json`):
 
 ```bash
-codex plugin marketplace add noahowsh/acesapi-mcp
+codex plugin marketplace add sports-data-hq/sportsdatahq-skills
 ```
 
-Then open the plugin directory in Codex and install `acesapi-skills` from the `acesapi` marketplace. The plugin bundles the skills in `skills/` and the AcesAPI MCP server (https://mcp.acesapi.com/mcp). Set your key first (free at https://acesapi.com/signup?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp):
-
-```bash
-export ACESAPI_API_KEY=your_key
-```
-
-Codex sends it as a bearer token.
+Install `tennis-data`, which bundles the tennis skills and the AcesAPI MCP server.
 
 ## Use with Gemini CLI
 
