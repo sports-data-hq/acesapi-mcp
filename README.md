@@ -23,7 +23,7 @@ Claude: [calls get_matches, then get_match]
 Most clients connect to `https://mcp.acesapi.com/mcp` directly. For a client that launches a local process instead:
 
 ```bash
-git clone https://github.com/noahowsh/acesapi-mcp.git && cd acesapi-mcp && npm install
+git clone https://github.com/sports-data-hq/acesapi-mcp.git && cd acesapi-mcp && npm install
 ACESAPI_API_KEY=your_key node index.js
 ```
 
@@ -139,8 +139,8 @@ See [`examples/README.md`](examples/README.md) for details. Get a free key (500 
 ## Use it in
 
 - **Claude, ChatGPT, Cursor, VS Code, Gemini CLI, Grok, Perplexity, Le Chat:** add `https://mcp.acesapi.com/mcp` as a remote MCP server. Step-by-step for each: https://acesapi.com/mcp?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp
-- **Gemini CLI:** `gemini extensions install https://github.com/noahowsh/acesapi-mcp`
-- **Cursor:** the [SportsDataHQ plugins for Cursor](https://github.com/noahowsh/sportsdatahq-cursor-plugins)
+- **Gemini CLI:** `gemini extensions install https://github.com/sports-data-hq/acesapi-mcp`
+- **Cursor:** the [SportsDataHQ plugins for Cursor](https://github.com/sports-data-hq/sportsdatahq-cursor-plugins)
 - **Google Sheets:** `=SDHQ("acesapi","list_tournaments")` fills a live table: https://sportsdatahq.com/sheets?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp
 - **REST:** `POST https://mcp.acesapi.com/v1/<tool>` with an `x-api-key` header: https://acesapi.com/docs?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp
 
@@ -177,7 +177,7 @@ Coverage by season, read live from the database: https://acesapi.com/docs?utm_so
 
 ## Pricing
 
-500 free credits every month, no card. Plans: Starter $19/mo (10,000 credits), Pro $49/mo (30,000), Scale $149/mo (125,000). Wallet top-ups from $5, never expire. https://acesapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp
+500 free credits every month, no card. Plans: Starter $19/mo (10,000 credits), Pro $49/mo (30,000), Scale $149/mo (125,000), Business $299/mo (300,000). Wallet top-ups from $5, never expire. https://acesapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp
 
 ## Attribution
 
@@ -201,7 +201,7 @@ Install `tennis-data`, which bundles the tennis skills and the AcesAPI MCP serve
 
 ```bash
 export ACESAPI_API_KEY=your_key
-gemini extensions install https://github.com/noahowsh/acesapi-mcp
+gemini extensions install https://github.com/sports-data-hq/acesapi-mcp
 ```
 
 The extension adds the AcesAPI MCP server (https://mcp.acesapi.com/mcp) and sends the key in the `x-api-key` header. Get a free key (500 credits a month) at https://acesapi.com/signup?utm_source=github&utm_medium=readme&utm_campaign=acesapi-mcp.
