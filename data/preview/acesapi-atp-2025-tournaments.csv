@@ -1,0 +1,62 @@
+league,season,tournament_id,name,start_date,end_date,city,country,major,surface,indoor,champion,runner_up,final_score
+atp,2025,970,Brisbane International presented by ANZ,2024-12-26,2025-01-06,Brisbane,Australia,f,hard,f,Jiri Lehecka,Reilly Opelka,4-1 ret.
+atp,2025,925,ASB Classic,2024-12-27,2025-01-11,Auckland,New Zealand,f,hard,f,Gael Monfils,Zizou Bergs,6-3 6-4
+atp,2025,971,Bank of China Hong Kong Tennis Open,2024-12-28,2025-01-06,"Hong Kong, Hong Kong",China,f,hard,f,Alexandre Muller,Kei Nishikori,2-6 6-1 6-3
+atp,2025,611,Adelaide International,2025-01-03,2025-01-12,Adelaide,Australia,f,hard,f,Felix Auger-Aliassime,Sebastian Korda,6-3 3-6 6-1
+atp,2025,154,Australian Open,2025-01-06,2025-01-27,Melbourne,Australia,t,hard,f,Jannik Sinner,Alexander Zverev,6-3 7-6(4) 6-3
+atp,2025,29,Open Occitanie,2025-01-26,2025-02-03,Montpellier,France,f,hard,t,Felix Auger-Aliassime,Aleksandar Kovacevic,6-2 6-7(7) 7-6(2)
+atp,2025,836,Nexo Dallas Open,2025-02-01,2025-02-10,Dallas,USA,f,hard,t,Denis Shapovalov,Casper Ruud,7-6(5) 6-3
+atp,2025,4,ABN Amro Open,2025-02-03,2025-02-10,Rotterdam,Netherlands,f,hard,t,Carlos Alcaraz,Alex de Minaur,6-4 3-6 6-2
+atp,2025,296,Delray Beach Open,2025-02-08,2025-02-17,Delray Beach,USA,f,hard,f,Miomir Kecmanovic,Alejandro Davidovich Fokina,3-6 6-1 7-5
+atp,2025,299,IEB+ Argentina Open,2025-02-08,2025-02-17,Buenos Aires,Argentina,f,clay,f,Joao Fonseca,Francisco Cerundolo,6-4 7-6(1)
+atp,2025,110,Open 13 Provence,2025-02-09,2025-02-17,Marseille,France,f,hard,t,Ugo Humbert,Hamad Medjedovic,7-6(4) 6-4
+atp,2025,25,Dubai Duty Free Tennis Championships,2025-02-14,2025-03-02,Dubai,United Arab Emirates,f,hard,f,Stefanos Tsitsipas,Felix Auger-Aliassime,6-3 6-3
+atp,2025,119,Qatar ExxonMobil Open,2025-02-15,2025-02-23,Doha,Qatar,f,hard,f,Andrey Rublev,Jack Draper,7-5 5-7 6-1
+atp,2025,375,Rio Open presented by Claro,2025-02-15,2025-02-24,Rio de Janeiro,Brazil,f,clay,f,Sebastian Baez,Alexandre Muller,6-2 6-3
+atp,2025,711,Abierto Mexicano Telcel presentado por HSBC,2025-02-22,2025-03-02,Acapulco,Mexico,f,hard,f,Tomas Machac,Alejandro Davidovich Fokina,7-6(6) 6-2
+atp,2025,620,BCI Seguros Chile Open,2025-02-22,2025-03-03,Santiago,Chile,f,clay,f,Laslo Djere,Sebastian Baez,6-4 3-6 7-5
+atp,2025,411,BNP Paribas Open,2025-03-02,2025-03-17,Indian Wells,USA,f,hard,f,Jack Draper,Holger Rune,6-2 6-2
+atp,2025,713,Miami Open presented by Itau,2025-03-16,2025-03-31,Miami,USA,f,hard,f,Jakub Mensik,Novak Djokovic,7-6(4) 7-6(4)
+atp,2025,145,Fayez Sarofim & Co. U.S. Men's Clay Court Championship,2025-03-29,2025-04-07,Houston,USA,f,clay,f,Jenson Brooksby,Frances Tiafoe,6-4 6-2
+atp,2025,28,Grand Prix Hassan II,2025-03-30,2025-04-07,Marrakech,Morocco,f,clay,f,Luciano Darderi,Tallon Griekspoor,7-6(3) 7-6(4)
+atp,2025,974,Tiriac Open presented by UniCredit Bank,2025-03-30,2025-04-07,Bucharest,Romania,f,clay,f,Flavio Cobolli,Sebastian Baez,6-4 6-4
+atp,2025,42,Rolex Monte-Carlo Masters,2025-04-05,2025-04-14,Monte-Carlo,Monaco,f,clay,f,Carlos Alcaraz,Lorenzo Musetti,3-6 6-1 6-0
+atp,2025,12,BMW Open by Bitpanda,2025-04-12,2025-04-21,Munich,Germany,f,clay,f,Alexander Zverev,Ben Shelton,6-2 6-4
+atp,2025,338,Barcelona Open Banc Sabadell,2025-04-12,2025-04-21,Barcelona,Spain,f,clay,f,Holger Rune,Carlos Alcaraz,7-6(6) 6-2
+atp,2025,413,Mutua Madrid Open,2025-04-21,2025-05-05,Madrid,Spain,f,clay,f,Casper Ruud,Jack Draper,7-5 3-6 6-4
+atp,2025,414,Internazionali BNL d'Italia,2025-05-05,2025-05-19,Rome,Italy,f,clay,f,Carlos Alcaraz,Jannik Sinner,7-6(5) 6-1
+atp,2025,942,Bitpanda Hamburg Open,2025-05-17,2025-05-25,Hamburg,Germany,f,clay,f,Flavio Cobolli,Andrey Rublev,6-2 6-4
+atp,2025,396,Gonet Geneva Open,2025-05-17,2025-05-25,Geneva,Switzerland,f,clay,f,Novak Djokovic,Hubert Hurkacz,5-7 7-6(2) 7-6(2)
+atp,2025,172,Roland Garros,2025-05-19,2025-06-09,Paris,France,t,clay,f,Carlos Alcaraz,Jannik Sinner,4-6 6-7(4) 6-4 7-6(3) 7-6(2)
+atp,2025,49,Boss Open,2025-06-07,2025-06-16,Stuttgart,Germany,f,grass,f,Taylor Fritz,Alexander Zverev,6-3 7-6(0)
+atp,2025,415,Libéma Open,2025-06-07,2025-06-16,'s-Hertogenbosch,Netherlands,f,grass,f,Gabriel Diallo,Zizou Bergs,7-5 7-6(8)
+atp,2025,129,HSBC Championships,2025-06-14,2025-06-23,London,Great Britain,f,grass,f,Carlos Alcaraz,Jiri Lehecka,7-5 6-7(5) 6-2
+atp,2025,27,Terra Wortmann Open,2025-06-14,2025-06-23,Halle,Germany,f,grass,f,Alexander Bublik,Daniil Medvedev,6-3 7-6(4)
+atp,2025,444,Lexus Eastbourne Open,2025-06-21,2025-06-29,Eastbourne,Great Britain,f,grass,f,Taylor Fritz,Jenson Brooksby,7-5 6-1
+atp,2025,637,Vanda Pharmaceuticals Mallorca Championships,2025-06-21,2025-06-29,Mallorca,Spain,f,grass,f,Tallon Griekspoor,Corentin Moutet,7-5 7-6(3)
+atp,2025,188,Wimbledon,2025-06-23,2025-07-14,London,Great Britain,t,grass,f,Jannik Sinner,Carlos Alcaraz,4-6 6-4 6-4 6-4
+atp,2025,306,Nordea Open,2025-07-07,2025-07-21,Båstad,Sweden,f,clay,f,Luciano Darderi,Jesper de Jong,6-4 3-6 6-3
+atp,2025,7,EFG Swiss Open Gstaad,2025-07-12,2025-07-21,Gstaad,Switzerland,f,clay,f,Alexander Bublik,Juan Manuel Cerundolo,6-4 4-6 6-3
+atp,2025,424,Mifel Tennis Open by Telcel Oppo,2025-07-12,2025-07-20,Los Cabos,Mexico,f,hard,f,Denis Shapovalov,Aleksandar Kovacevic,6-4 6-2
+atp,2025,304,Generali Open,2025-07-19,2025-07-27,Kitzbuhel,Austria,f,clay,f,Alexander Bublik,Arthur Cazaux,6-4 6-3
+atp,2025,888,Mubadala DC Open,2025-07-19,2025-07-28,Washington,USA,f,hard,f,Alex de Minaur,Alejandro Davidovich Fokina,5-7 6-1 7-6(3)
+atp,2025,22,Plava Laguna Croatia Open Umag,2025-07-19,2025-07-27,Umag,Croatia,f,clay,f,Luciano Darderi,Carlos Taberner,6-3 6-3
+atp,2025,421,National Bank Open presented by Rogers,2025-07-26,2025-08-08,Toronto,Canada,f,hard,f,Ben Shelton,Karen Khachanov,6-7(5) 6-4 7-6(3)
+atp,2025,718,Cincinnati Open,2025-08-05,2025-08-19,Cincinnati,USA,f,hard,f,Carlos Alcaraz,Jannik Sinner,5-0 ret.
+atp,2025,363,Winston-Salem Open,2025-08-16,2025-08-24,Winston-Salem,USA,f,hard,f,Marton Fucsovics,Botic Van De Zandschulp,6-3 7-6(3)
+atp,2025,189,US Open,2025-08-18,2025-09-08,New York,USA,t,hard,f,Carlos Alcaraz,Jannik Sinner,6-2 3-6 6-1 6-4
+atp,2025,315,Rolex Shanghai Masters,2025-09-01,2025-10-13,Shanghai,China PR,f,hard,,Valentin Vacherot,Arthur Rinderknech,4-6 6-3 6-3
+atp,2025,1001,AITO Hangzhou Open,2025-09-16,2025-09-24,Hangzhou,China PR,f,hard,f,Alexander Bublik,Valentin Royer,7-6(4) 7-6(4)
+atp,2025,441,Chengdu Open,2025-09-16,2025-09-24,Chengdu,China PR,f,hard,f,Alejandro Tabilo,Lorenzo Musetti,6-3 2-6 7-6(5)
+atp,2025,959,China Open,2025-09-21,2025-10-06,Beijing,China PR,f,hard,f,Jannik Sinner,Learner Tien,6-2 6-2
+atp,2025,5,Kinoshita Group Japan Open Tennis Championships,2025-09-21,2025-10-01,Tokyo,Japan,f,hard,,Carlos Alcaraz,Taylor Fritz,6-4 6-4
+atp,2025,708,Almaty Open,2025-10-11,2025-10-20,Almaty,Kazakhstan,f,hard,t,Daniil Medvedev,Corentin Moutet,7-5 4-6 6-3
+atp,2025,148,Bybit Stockholm Open,2025-10-11,2025-10-20,Stockholm,Sweden,f,hard,t,Casper Ruud,Ugo Humbert,6-2 6-3
+atp,2025,440,BNP Paribas Fortis European Open,2025-10-12,2025-10-20,Brussels,Belgium,f,hard,t,Felix Auger-Aliassime,Jiri Lehecka,7-6(2) 6-7(6) 6-2
+atp,2025,10,Erste Bank Open,2025-10-18,2025-10-27,Vienna,Austria,f,hard,t,Jannik Sinner,Alexander Zverev,3-6 6-3 7-5
+atp,2025,23,Swiss Indoors Basel,2025-10-18,2025-10-27,Basel,Switzerland,f,hard,t,Joao Fonseca,Alejandro Davidovich Fokina,6-3 6-4
+atp,2025,13,Rolex Paris Masters,2025-10-25,2025-11-03,Paris,France,f,hard,t,Jannik Sinner,Felix Auger-Aliassime,6-4 7-6(4)
+atp,2025,114,Moselle Open,2025-11-01,2025-11-09,Metz,France,f,hard,t,Learner Tien,Cameron Norrie,6-3 3-6 7-6(6)
+atp,2025,1039,Vanda Pharmaceuticals Hellenic Championship,2025-11-01,2025-11-09,Athens,Greece,f,hard,t,Novak Djokovic,Lorenzo Musetti,4-6 6-3 7-5
+atp,2025,339,Nitto ATP Finals,2025-11-09,2025-11-17,"Inalpi Arena, Turin",Italy,f,hard,t,Jannik Sinner,Carlos Alcaraz,7-6(4) 7-5
+atp,2025,865,Next Gen ATP Finals presented by PIF,2025-12-17,2025-12-22,"Centre Court, Jeddah",Saudi Arabia,f,hard,t,Learner Tien,Alexander Blockx,4-3(4) 4-2 4-1

@@ -1,0 +1,101 @@
+league,season,tournament,surface,draw,round,date,player1,player2,seed1,seed2,winner,score,outcome,sets1,sets2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Derek Pham,Richard Gasquet,,,Richard Gasquet,6-1 6-2,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Yannick Hanfmann,Jacob Bradshaw,,,Yannick Hanfmann,6-4 6-2,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Borna Gojo,Nishesh Basavareddy,,,Nishesh Basavareddy,4-6 7-6(4) 6-4,completed,1,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Lucas Pouille,Jason Kubler,,,Lucas Pouille,4-6 6-3 7-6(6),completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Andrea Collarini,Mikhail Kukushkin,,,Mikhail Kukushkin,6-2 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Yoshihito Nishioka,Alex Bolt,,,Yoshihito Nishioka,6-2 7-6(4),completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,James Duckworth,Tristan Schoolkate,,,Tristan Schoolkate,6-4 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Ugo Blanchet,Federico Agustin Gomez,,,Federico Agustin Gomez,3-6 6-3 7-5,completed,1,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Benjamin Bonzi,James McCabe,,,Benjamin Bonzi,6-3 6-2,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Li Tu,Lukas Klein,,,Li Tu,6-4 6-4,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Dusan Lajovic,Casey Hoole,,,Dusan Lajovic,5-7 7-5 2-0 ret.,retired,1,1
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying 1st Round,2024-12-28,Adrian Andreev,Chun-Hsin Tseng,,,Adrian Andreev,6-4 3-6 7-6(5),completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Marc-Andrea Huesler,Laslo Djere,,,Marc-Andrea Huesler,7-5 6-4,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Denis Yevseyev,Cristian Garin,,,Denis Yevseyev,6-4 2-6 6-2,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Francesco Passaro,Aziz Dougaz,,,Francesco Passaro,7-5 4-6 6-3,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Terence Atmane,Hugo Grenier,,,Hugo Grenier,3-6 6-3 6-4,completed,1,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Gabriel Diallo,Ki Lung Ng,,,Gabriel Diallo,7-6(2) 6-2,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Cui Jie,Juan Manuel Cerundolo,,,Cui Jie,6-2 6-4,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Daniel Altmaier,Alejandro Moro Canas,,,Alejandro Moro Canas,6-4 6-3,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying 1st Round,2024-12-29,Pavel Kotov,Valentin Royer,,,Pavel Kotov,3-6 7-5 7-6(5),completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying Final,2024-12-29,Yannick Hanfmann,Richard Gasquet,,,Yannick Hanfmann,7-6(4) 6-3,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying Final,2024-12-29,Benjamin Bonzi,Adrian Andreev,,,Benjamin Bonzi,3-1 ret.,retired,0,0
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying Final,2024-12-29,Yoshihito Nishioka,Li Tu,,,Yoshihito Nishioka,6-3 2-6 6-4,completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying Final,2024-12-29,Tristan Schoolkate,Mikhail Kukushkin,,,Mikhail Kukushkin,6-4 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying Final,2024-12-29,Dusan Lajovic,Federico Agustin Gomez,,,Federico Agustin Gomez,6-1 7-6(4),completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,qualifying,Qualifying Final,2024-12-29,Lucas Pouille,Nishesh Basavareddy,,,Nishesh Basavareddy,6-4 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-29,David Goffin,Aleksandar Vukic,,,Aleksandar Vukic,6-2 6-3,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying Final,2024-12-30,Gabriel Diallo,Hugo Grenier,,,Gabriel Diallo,4-6 6-1 7-5,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying Final,2024-12-30,Pavel Kotov,Marc-Andrea Huesler,,,Marc-Andrea Huesler,7-6(7) 6-4,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying Final,2024-12-30,Francesco Passaro,Denis Yevseyev,,,Francesco Passaro,4-6 6-2 6-4,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,qualifying,Qualifying Final,2024-12-30,Alejandro Moro Canas,Cui Jie,,,Alejandro Moro Canas,6-2 6-3,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-30,Roman Safiullin,Fabian Marozsan,,,Fabian Marozsan,6-1 7-6(9),completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-30,Cameron Norrie,Learner Tien,,,Cameron Norrie,6-3 7-5,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-30,Lorenzo Sonego,Brandon Nakashima,,6,Lorenzo Sonego,7-6(4) 6-3,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-30,Luciano Darderi,Miomir Kecmanovic,8,,Miomir Kecmanovic,6-3 6-3,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Alejandro Tabilo,Benjamin Bonzi,6,,Benjamin Bonzi,6-7(8) 7-6(5) 6-4,completed,1,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Mariano Navone,Nicolas Jarry,,,Nicolas Jarry,7-5 7-6(7),completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Arthur Rinderknech,Yoshihito Nishioka,,,Yoshihito Nishioka,6-3 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Yannick Hanfmann,Grigor Dimitrov,,2,Grigor Dimitrov,7-6(5) 6-3,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Jiri Lehecka,Holger Rune,,3,Jiri Lehecka,7-5 6-3,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Jordan Thompson,Matteo Berrettini,8,,Jordan Thompson,3-6 6-3 6-4,completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-30,Alex Michelsen,Christopher O'Connell,,,Alex Michelsen,6-4 4-6 7-6(10),completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Denis Shapovalov,Kei Nishikori,,,Kei Nishikori,6-2 6-3,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Gabriel Diallo,Roberto Carballes Baena,,,Gabriel Diallo,4-6 7-6(4) 7-5,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Shang Juncheng,Chak Lam Coleman Wong,,,Shang Juncheng,7-6(3) 6-4,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Jaume Munar,Alejandro Davidovich Fokina,,,Jaume Munar,4-6 6-3 6-3,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Francesco Passaro,Pedro Martinez,,7,Pedro Martinez,6-4 6-4,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Alexandre Muller,Marc-Andrea Huesler,,,Alexandre Muller,2-6 6-4 6-3,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Zizou Bergs,Alejandro Moro Canas,,,Zizou Bergs,6-4 6-4,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 1,2024-12-31,Nuno Borges,Bu Yunchaokete,5,,Nuno Borges,3-6 6-3 7-6(6),completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Novak Djokovic,Rinky Hijikata,1,,Novak Djokovic,6-3 6-3,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Nishesh Basavareddy,Gael Monfils,,,Gael Monfils,6-4 4-6 6-1,completed,1,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Federico Agustin Gomez,Reilly Opelka,,,Reilly Opelka,7-5 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Arthur Cazaux,Dusan Lajovic,,,Dusan Lajovic,6-4 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Matteo Arnaldi,Alexei Popyrin,,7,Matteo Arnaldi,6-3 6-2,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Frances Tiafoe,Adam Walton,4,,Frances Tiafoe,7-6(5) 6-3,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Giovanni Mpetshi Perricard,Nick Kyrgios,,,Giovanni Mpetshi Perricard,7-6(2) 6-7(4) 7-6(3),completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 1,2024-12-31,Jakub Mensik,Mikhail Kukushkin,,,Jakub Mensik,7-6(3) 6-4,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-01,Karen Khachanov,Kei Nishikori,3,,Kei Nishikori,4-6 6-3 7-5,completed,1,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-01,Cameron Norrie,Lorenzo Sonego,,,Cameron Norrie,6-2 4-6 6-1,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-01,Miomir Kecmanovic,Alexandre Muller,,,Alexandre Muller,5-7 7-6(6) 7-6(10),completed,1,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-01,Zizou Bergs,Arthur Fils,,4,Arthur Fils,7-6(7) 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-01,Benjamin Bonzi,Nicolas Jarry,,,Nicolas Jarry,6-2 6-3,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-01,Yoshihito Nishioka,Jiri Lehecka,,,Jiri Lehecka,6-2 6-7(5) 6-4,completed,1,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-01,Jordan Thompson,Alex Michelsen,8,,Jordan Thompson,7-5 6-3,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-01,Aleksandar Vukic,Grigor Dimitrov,,2,Grigor Dimitrov,6-2 7-6(5),completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-02,Andrey Rublev,Fabian Marozsan,1,,Fabian Marozsan,7-5 3-6 6-3,completed,1,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-02,Shang Juncheng,Pedro Martinez,,7,Shang Juncheng,6-3 6-1,completed,2,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-02,Nuno Borges,Jaume Munar,5,,Jaume Munar,6-3 7-5,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Round 2,2025-01-02,Gabriel Diallo,Lorenzo Musetti,,2,Lorenzo Musetti,6-4 6-3,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-02,Novak Djokovic,Gael Monfils,1,,Novak Djokovic,6-3 6-3,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-02,Frances Tiafoe,Giovanni Mpetshi Perricard,4,,Giovanni Mpetshi Perricard,6-4 7-6(4),completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-02,Jakub Mensik,Dusan Lajovic,,,Jakub Mensik,6-3 6-2,completed,2,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Round 2,2025-01-02,Reilly Opelka,Matteo Arnaldi,,,Reilly Opelka,7-6(9) 7-6(4),completed,2,0
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-03,Botic Van De Zandschulp,Nishesh Basavareddy,,,Nishesh Basavareddy,6-7(3) 7-5 6-3,completed,1,2
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-03,Charles Broom,Daniel Altmaier,,,Daniel Altmaier,7-5 6-1,completed,0,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Quarterfinal,2025-01-03,Jaume Munar,Lorenzo Musetti,,2,Jaume Munar,2-6 7-6(4) 7-5,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Quarterfinal,2025-01-03,Fabian Marozsan,Shang Juncheng,,,Shang Juncheng,1-6 6-3 6-4,completed,1,2
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Quarterfinal,2025-01-03,Kei Nishikori,Cameron Norrie,,,Kei Nishikori,6-3 3-6 6-2,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Quarterfinal,2025-01-03,Alexandre Muller,Arthur Fils,,4,Alexandre Muller,3-6 6-3 6-1,completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,main,Quarterfinal,2025-01-03,Jordan Thompson,Grigor Dimitrov,8,2,Grigor Dimitrov,6-1 2-1 ret.,retired,0,1
+atp,2025,Brisbane International presented by ANZ,hard,main,Quarterfinal,2025-01-03,Nicolas Jarry,Jiri Lehecka,,,Jiri Lehecka,6-4 6-4,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Quarterfinal,2025-01-03,Novak Djokovic,Reilly Opelka,1,,Reilly Opelka,7-6(6) 6-3,completed,0,2
+atp,2025,Brisbane International presented by ANZ,hard,main,Quarterfinal,2025-01-03,Giovanni Mpetshi Perricard,Jakub Mensik,,,Giovanni Mpetshi Perricard,7-5 7-6(5),completed,2,0
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-04,Alexander Klintcharov,Sumit Nagal,,,Sumit Nagal,1-6 6-3 6-1,completed,1,2
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-04,Adrian Mannarino,Dominic Stricker,,,Adrian Mannarino,6-4 6-4,completed,2,0
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-04,Daniel Masur,Luca Nardi,,,Luca Nardi,6-7(3) 6-4 6-2,completed,1,2
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-04,Maxime Janvier,Francisco Comesana,,,Francisco Comesana,6-1 6-7(5) 6-3,completed,1,2
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-04,Facundo Diaz Acosta,Ajeet Rai,,,Facundo Diaz Acosta,6-4 6-2,completed,2,0
+atp,2025,ASB Classic,hard,qualifying,Qualifying 1st Round,2025-01-04,Zizou Bergs,Pablo Carreno Busta,,,Zizou Bergs,2-6 7-6(6) 6-4,completed,2,1
+atp,2025,ASB Classic,hard,qualifying,Qualifying Final,2025-01-04,Facundo Diaz Acosta,Luca Nardi,,,Luca Nardi,7-5 6-7(2) 6-2,completed,1,2
+atp,2025,ASB Classic,hard,qualifying,Qualifying Final,2025-01-04,Nishesh Basavareddy,Daniel Altmaier,,,Nishesh Basavareddy,6-2 6-1,completed,2,0
+atp,2025,ASB Classic,hard,qualifying,Qualifying Final,2025-01-04,Adrian Mannarino,Sumit Nagal,,,Sumit Nagal,7-6(5) 6-3,completed,0,2
+atp,2025,Adelaide International,hard,qualifying,Qualifying 1st Round,2025-01-04,Manuel Guinard,Taro Daniel,,,Manuel Guinard,7-5 6-4,completed,2,0
+atp,2025,Adelaide International,hard,qualifying,Qualifying 1st Round,2025-01-04,Yannick Hanfmann,Hugo Gaston,,,Yannick Hanfmann,3-6 7-6(2) 6-2,completed,2,1
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Semifinal,2025-01-04,Shang Juncheng,Kei Nishikori,,,Kei Nishikori,4-3 ret.,retired,0,0
+atp,2025,Bank of China Hong Kong Tennis Open,hard,main,Semifinal,2025-01-04,Alexandre Muller,Jaume Munar,,,Alexandre Muller,4-6 7-6(5) 6-4,completed,2,1
+atp,2025,Brisbane International presented by ANZ,hard,main,Semifinal,2025-01-04,Jiri Lehecka,Grigor Dimitrov,,2,Jiri Lehecka,6-4 4-4 ret.,retired,1,0
+atp,2025,Brisbane International presented by ANZ,hard,main,Semifinal,2025-01-04,Reilly Opelka,Giovanni Mpetshi Perricard,,,Reilly Opelka,6-3 7-6(4),completed,2,0
+atp,2025,ASB Classic,hard,qualifying,Qualifying Final,2025-01-05,Zizou Bergs,Francisco Comesana,,,Zizou Bergs,3-6 6-4 6-3,completed,2,1
